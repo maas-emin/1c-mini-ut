@@ -250,6 +250,14 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Закупки</Subsystem>
+			<Subsystem>Склад</Subsystem>
+			<Subsystem>Ценообразование</Subsystem>
+			<Catalog>Склады</Catalog>
+			<Catalog>ВидыЦен</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>УпаковкиЕдиницыИзмерения</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

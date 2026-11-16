@@ -1,7 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Configuration.МиниУТ" id="85df7bc6-6d9f-4baf-97a9-b4cd6ebfcd4a" configVersion="51b70f5964e2fb4dbbb7f17c08c0d42100000000"/>
+		<Metadata name="Catalog.ВидыЦен" id="d81dcedc-4f3b-4619-bc51-917fd36a5b33" configVersion="ef8ef5009595cb4c9867cda7c0ebed7a00000000"/>
+		<Metadata name="Catalog.Контрагенты" id="6a15a42c-4a1c-4531-8bc7-1f94e43cc0a0" configVersion="8461002071744347bfe9e8d8bd0c820400000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="d12ee198-0abc-47d6-a787-e6eec4285126"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="23bd9d7e-1c95-4e71-89dd-7718b59022e3" configVersion="3f882039c977b04eac78a9ae6b34cfe100000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="793cc8e0-4b14-46de-a960-70bd3cce8802"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="23bd9d7e-1c95-4e71-89dd-7718b59022e3.0" configVersion="8ef09addde891946a98a7effbbb664fe00000000"/>
+		<Metadata name="Catalog.Склады" id="a7b58925-23b4-48b9-9f3d-3cf3a31a2cda" configVersion="4a40d4452ff8dd488482eb04d927b93700000000"/>
+		<Metadata name="Catalog.УпаковкиЕдиницыИзмерения" id="d592f86b-4b63-42c4-9ab3-d53c7adfe19e" configVersion="542a859a5735cb4e88ced52140474b2400000000">
+			<Metadata name="Catalog.УпаковкиЕдиницыИзмерения.Attribute.Коэффициент" id="321bc20f-3c9e-407e-a211-0b4687d49aad"/>
+		</Metadata>
+		<Metadata name="Configuration.МиниУТ" id="85df7bc6-6d9f-4baf-97a9-b4cd6ebfcd4a" configVersion="c653481f7d1a204e8e6e905d54eda9a700000000"/>
 		<Metadata name="Language.Русский" id="bd848550-4e2a-4948-af7c-1adaf84a7e11" configVersion="a865b84df0d1d14d9a85c5e92909289500000000"/>
+		<Metadata name="Subsystem.Закупки" id="84470a78-3150-40da-b671-75d77c4c9056" configVersion="d2cf20701a72fb4cbeecfd0bb5c4df7100000000"/>
+		<Metadata name="Subsystem.Склад" id="fce54ecc-521b-4618-8ae4-994b8125adeb" configVersion="d75c8008d55ba14599e8b9d963d3d75100000000"/>
+		<Metadata name="Subsystem.Ценообразование" id="529a21c4-f95c-4752-896e-3967aae3ecd7" configVersion="5478f70d10148f4da02ec3f3b8b34d6600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
